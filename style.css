@@ -23,15 +23,15 @@ body{
 
 .container{
     background-image: linear-gradient(to right, #00000090 20%, #0000007b),
-    url(anime-berserk-manga-wallpaper-preview.jpg);
+    url(guts-black-5120x2880-21420.png.crdownload);
     width: 90%;
     height: 600px;
-    background-size:contain ;
+    background-size:cover ;
 }
 
 .container:hover{
       background-image: linear-gradient(to right, #00000090 20%, transparent),
-    url(anime-berserk-manga-wallpaper-preview.jpg);
+    url(guts-black-5120x2880-21420.png.crdownload);
 }
 
 header{
@@ -50,7 +50,7 @@ ul{
     list-style: none;
     display: flex;
     justify-content: space-evenly;
-    width: 60%;
+    width: 50%;
 }
 
 ul a{
